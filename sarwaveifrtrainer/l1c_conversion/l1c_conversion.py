@@ -1,4 +1,4 @@
-ASA_WVI_1PNP"""
+"""
 Developped for the version 4.1 of l1c processor.
 """
 
